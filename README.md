@@ -1,6 +1,6 @@
 # Hi there 👋, I am Kennedy Wahome.
 
-**`A Sotware Developer from Kenya`**
+**`A Software Developer from Kenya`**
 
 - 🔭 I’m currently working on Autonomous Robot
 - 🌱 I’m currently learning **ROS, Localization, Machine Learning**
